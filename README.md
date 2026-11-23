@@ -2,7 +2,8 @@
 COMPONENTE PRÁCTICO 2
 Nombre del proyecto: Sistema de historia clínica electrónica  “SaludIntegral”
 <br>
-Grupo: "D"
+Grupo: "D" <br>  
+
 <b>Integrantes</b>
 <li> Angulo Pilozo Santiago Alejandro</li>
  <li>Acero Espinoza Daniel Sebastian </li>
