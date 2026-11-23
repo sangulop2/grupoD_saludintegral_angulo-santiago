@@ -9,7 +9,6 @@
 <li>Acero Espinoza Daniel Sebastian </li>
 <li>Arguello Muñoz Joel Santiago </li>
 <li>Bajaña Asqui Elkin Armando </li>
-<li>Bajaña Asqui Elkin Armando </li>
 <li>Ballesteros Chicando Allan Josue </li>
 <li> Guaman Vega John Jairo </li>
 
