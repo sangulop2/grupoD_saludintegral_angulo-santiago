@@ -1,2 +1,2 @@
-# grupoD_saludintegral_angulo-santiago
+# CP2-SaludIntegral-GrupoD
 COMPONENTE PRÁCTICO 2
