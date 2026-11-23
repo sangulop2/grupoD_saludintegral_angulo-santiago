@@ -1,8 +1,8 @@
 # CP2-SaludIntegral-GrupoD
-COMPONENTE PRÁCTICO 2
-Nombre del proyecto: Sistema de historia clínica electrónica  “SaludIntegral”
+<b>COMPONENTE PRÁCTICO 2 </b> <br>
+<b> Nombre del proyecto: </b> Sistema de historia clínica electrónica  “SaludIntegral”
 <br>
-Grupo: "D" <br>  
+<b>Grupo:</b> "D" <br>  
 
 <b>Integrantes</b>
 <li> Angulo Pilozo Santiago Alejandro</li>
