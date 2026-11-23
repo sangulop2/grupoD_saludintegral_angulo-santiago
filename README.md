@@ -1,7 +1,7 @@
 # CP2-SaludIntegral-GrupoD
 
-**Componente Práctico 2 (CP2)**
-**Proyecto:** Sistema de historia clínica electrónica "SaludIntegral"
+**Componente Práctico 2 (CP2)**  
+**Proyecto:** Sistema de historia clínica electrónica "SaludIntegral"  
 **Grupo:** D
 
 ## Integrantes
